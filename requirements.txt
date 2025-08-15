@@ -1,0 +1,23 @@
+# Core
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.4
+
+# GenAI / NLP
+transformers>=4.43
+sentence-transformers>=3.0.0
+torch>=2.3
+
+# API / App
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+
+# Explainability & Viz
+shap>=0.45
+matplotlib>=3.8
+plotly>=5.22
+
+# Utilities
+python-dotenv>=1.0
+tqdm>=4.66
